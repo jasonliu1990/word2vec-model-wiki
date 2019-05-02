@@ -5,4 +5,8 @@ https://dumps.wikimedia.org/zhwiki/latest/
 ## 繁簡轉換
 使用OpenCC進行轉換<br>
 安裝:<br>
-pip install opencc-python-reimplemented<br>
+<code>pip install opencc-python-reimplemented</code>
+## 製作模型
+使用gensim裡的word2vec套件<br>
+<code>pip install gensim</code>
+
