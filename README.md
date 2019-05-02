@@ -10,7 +10,7 @@ https://dumps.wikimedia.org/zhwiki/latest/
 使用gensim裡的word2vec套件<br>
 <code>pip install gensim</code>
 ## 測試
-用most_similar()找到關聯詞
+用most_similar()找到關聯詞<br>
 <code>
   model.wv.most_similar('橄欖油', topn=20)
 </code>
