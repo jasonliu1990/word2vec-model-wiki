@@ -9,7 +9,7 @@ https://dumps.wikimedia.org/zhwiki/latest/
 ## 轉換後並切好詞的檔案
 https://drive.google.com/open?id=19Qrws4tLaQR3rTv6xnN3ytU9U56v7M57
 ## 製作模型
-使用gensim裡的word2vec套件<br>
+使用gensim裡的word2vec<br>
 <code>pip install gensim</code>
 ## 測試
 用most_similar()找到關聯詞<br>
